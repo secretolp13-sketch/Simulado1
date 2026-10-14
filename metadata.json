@@ -1,0 +1,6 @@
+{
+  "name": "ESCSIMULADOS",
+  "description": "Plataforma 100% gratuita e sem cadastro de simulados para Ensino Fundamental e Médio do Brasil. Treine para ENEM, Prova Paulista, SARESP, OBMEP, OBA, SAEB e ETEC com gabarito comentado instantâneo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
